@@ -6,6 +6,7 @@ A Task Management Application is a python program to manage llist of tasks tasks
 ## Content <br>
 -  Installation
 -  Usage
+-  Credits
 
 ## How to run this project in Local Machine
 The following are instructions for Windows,
@@ -37,6 +38,10 @@ As part of user role you can add, edit, view and delete the tasks added by same 
 
   #### View all tasks
   ![image](https://github.com/sreelathagandreti/finalCapstone/assets/129996811/7ac68e4f-3a4f-4178-b778-63fe02b66d8c)
+
+
+### Credits
+Credit to Hyperiondev software engineering bootcamp 
 
   
 
