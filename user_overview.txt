@@ -1,0 +1,42 @@
+User Overview Report===================================
+Total tasks: 8
+
+admin Report
+Total Tasks								 1
+Percentage of Total number of tasks		 12.5 
+Percentage of completed tasks			 0
+Percentage of incomplete tasks			 100
+Percentage of overdue tasks				 100
+===================================
+
+user1 Report
+Total Tasks								 2
+Percentage of Total number of tasks		 25.0 
+Percentage of completed tasks			 0
+Percentage of incomplete tasks			 100
+Percentage of overdue tasks				 0
+===================================
+
+user2 Report
+Total Tasks								 2
+Percentage of Total number of tasks		 25.0 
+Percentage of completed tasks			 50.0
+Percentage of incomplete tasks			 50.0
+Percentage of overdue tasks				 0
+===================================
+
+user3 Report
+Total Tasks								 2
+Percentage of Total number of tasks		 25.0 
+Percentage of completed tasks			 0
+Percentage of incomplete tasks			 100
+Percentage of overdue tasks				 0
+===================================
+
+user4 Report
+Total Tasks								 1
+Percentage of Total number of tasks		 12.5 
+Percentage of completed tasks			 0
+Percentage of incomplete tasks			 100
+Percentage of overdue tasks				 0
+===================================

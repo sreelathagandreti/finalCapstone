@@ -1,0 +1,7 @@
+Tasks Report=========================
+Total number of tasks						 8
+Total number of completed tasks 			 1
+Total number of incomplete tasks 			 7
+Total number of overdue tasks 				 1
+Percentage of tasks incomplete				 87.5
+Percentage of tasks overdue					 12.5
